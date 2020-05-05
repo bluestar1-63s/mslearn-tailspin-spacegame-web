@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/bluestar1333333/Azure%20DevOps%20-%20Implement%20Code%20WorkFlow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/bluestar1333333/Azure%20DevOps%20-%20Implement%20Code%20WorkFlow/_build/latest?definitionId=2&branchName=master)
+
 
 # Contributing
 
